@@ -24,4 +24,5 @@ Here, I observed once again that structures that achieve a balance of risk and r
 I realized the importance of a multifaceted approach, leading to broader observations, rather than simply focusing on a single metric.
 And finally, I had the opportunity to experience the satisfaction of applying concepts like portfolio theory, risk management, variance-covariance matrices, and risk contribution in practice, just as I enjoyed hearing about them from my professor in school.
 
+29.07.2025 All rights reserved. This project is the intelectual property of the author and is intended for personal use only. Unauthorized copying, distribution, or use is strictly prohibited.
 -Buse BARUTÇU
