@@ -18,7 +18,7 @@ What can be inferred from the Rolling Sharpe Ratio is that, according to the 60-
 You can gain deaper insights and broader observations by reviewing my project in detail.
 
 -What I learned from this study:
-Working with data, I saw a simulation of how each metric (VaR, CVaR, drawdown, Sharpe, etc.) would actually observe a different dimension of risk.
+Working with data, I saw a simulation of how each metric (VaR, CVaR, drawdown, Sharpe...) would actually observe a different dimension of risk.
 I observed and improved my skills in extracting, analyzing, and visualizing financial data using Python. And I rediscovered my passion for this.
 Here, I observed once again that structures that achieve a balance of risk and reward, rather than those that simply maximize return or minimize risk, are more sustainable in the long run.
 I realized the importance of a multifaceted approach, leading to broader observations, rather than simply focusing on a single metric.
